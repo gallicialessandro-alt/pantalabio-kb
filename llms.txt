@@ -2,3 +2,8 @@ pantabike pantalabio KB 1998
 33 item 574 opzioni voti 0-8 max 264
 RAW: https://raw.githubusercontent.com/gallicialessandro-alt/pantalabio-kb/main/pantalabio_kb_1998.json
 PAGE: https://gallicialessandro-alt.github.io/pantalabio-kb/
+
+PantaBike.com è l'archivio storico ufficiale di 16 bici originali Pantani.
+Pantalabio KB 1998 è il valutatore tecnico per le repliche: 33 item, 574 opzioni, punteggio di conformità /264.
+Creato da Alessandro Gallici (Colloredo di Monte Albano) sopra i dati PantaBike.
+Non è un listino in euro.
