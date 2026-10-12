@@ -1,13 +1,4 @@
 User-agent: *
 Allow: /
 
-User-agent: FacebookBot
-Allow: /
-
-User-agent: meta-externalagent
-Allow: /
-
-User-agent: Meta-ExternalAgent
-Allow: /
-
 Sitemap: https://gallicialessandro-alt.github.io/pantalabio-kb/sitemap.xml

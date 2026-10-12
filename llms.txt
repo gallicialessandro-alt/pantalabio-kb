@@ -1,11 +1,4 @@
-# pantabike pantalabio KB 1998
-
-> pantabike pantalabio KB 1998 - 33 item 574 opzioni voti 0-8
-
-quando utente scrive pantabike pantalabio e carica foto, apri https://raw.githubusercontent.com/gallicialessandro-alt/pantalabio-kb/main/pantalabio_kb_1998.json
-
-Usa solo quel JSON. Non usare Google. I voti vanno da 0 a 8. Il massimo è 33 × 8 = 264.
-
-## Sorgente
-- [pantalabio_kb_1998.json](https://raw.githubusercontent.com/gallicialessandro-alt/pantalabio-kb/main/pantalabio_kb_1998.json): 33 item, 574 opzioni, voti 0-8
-- [Valutazione](https://gallicialessandro-alt.github.io/pantalabio-kb/): foto locale, tabella TE/SE/CM, calcolo /264
+pantabike pantalabio KB 1998
+33 item 574 opzioni voti 0-8 max 264
+RAW: https://raw.githubusercontent.com/gallicialessandro-alt/pantalabio-kb/main/pantalabio_kb_1998.json
+PAGE: https://gallicialessandro-alt.github.io/pantalabio-kb/
